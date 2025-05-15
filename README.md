@@ -13,7 +13,7 @@ This project implements a real-time fluid simulation using the **Weakly Compress
 
 ## Demo
 
-![Demo](demoSPH_2.gif)
+![Demo](DemoSPH_2.gif)
 
 ### Prerequisites
 
