@@ -21,3 +21,7 @@ This project implements a real-time fluid simulation using the **Weakly Compress
 - [Taichi Lang](https://taichi-lang.org/)
 - CUDA-compatible NVIDIA GPU (recommended)
 - Vulkan version < 1.4 (due to backend limitations)
+
+## Inspiration
+
+This project was inspired by [SPH_Taichi](https://github.com/erizmr/SPH_Taichi).
